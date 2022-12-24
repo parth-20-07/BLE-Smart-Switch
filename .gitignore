@@ -1,3 +1,10 @@
 **/desktop.ini
 /.vscode
+<<<<<<< HEAD
 # /Smart Air Quality Monitor/Firmware/Display Board/5 inch Vertical Display.HMI
+=======
+log/*
+build/*
+install/*
+.obsidian/
+>>>>>>> 5efc61ac8880855c2b4173fb8875b9fb5a8c62a5
