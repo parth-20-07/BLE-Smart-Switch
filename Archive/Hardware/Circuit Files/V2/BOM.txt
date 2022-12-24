@@ -1,0 +1,9 @@
+TACTILE_SWITCH_SMD_4.5MM (Version 1): https://www.sunrom.com/p/smd-tactile-switch-45x45x38mm
+0805 RESISTORS: https://www.sunrom.com/c/resistors?s_47%5B%5D=0805+%282012+metric%29
+AMS1117-3.3: https://www.sunrom.com/p/ams1117-33-sot223
+FUSE: https://www.sunrom.com/p/t63a-250v-rectangular-fuse
+OPTOCOUPLER: https://www.sunrom.com/p/pc817-low-voltage-high-density-optocoupler
+NPN: https://www.sunrom.com/p/bc847-npn-45v-100ma-sot23
+Diode: https://www.sunrom.com/p/1n4148---1n4148wt---smd---sod523-0603
+RED LED: https://www.sunrom.com/p/red-smd-led-0603
+BLUE LED: https://www.sunrom.com/p/blue-smd-led-0603
