@@ -1,58 +1,61 @@
-<!-- TOC -->
+<!-- omit from toc -->
+# BLE Smart Switch
 
-- [Introduction](#introduction)
-- [How to setup the project](#how-to-setup-the-project)
-    - [Install dependencies](#install-dependencies)
-- [How to use the project](#how-to-use-the-project)
-    - [Assignment 1](#assignment-1)
-- [Understanding the Assignment](#understanding-the-assignment)
-    - [Assignment 1](#assignment-1)
-        - [file 1](#file-1)
-- [Designer Details](#designer-details)
-- [License](#license)
+**Table of Contents**
 
-<!-- /TOC -->
-
-# Introduction
-
-# How to setup the project
-
-## Install dependencies
-
-# How to use the project
-
-## Assignment 1
-
-# Understanding the Assignment
-
-## Assignment 1
-
-### file 1
+- [Why BLE Smart Switch is needed?](#why-ble-smart-switch-is-needed)
+- [Features of our Smart Switch](#features-of-our-smart-switch)
+- [How to use the device](#how-to-use-the-device)
+- [Schematic Design](#schematic-design)
+- [PCB Design](#pcb-design)
+- [Rendered Images](#rendered-images)
+- [Design Details](#design-details)
 
 
+# Why BLE Smart Switch is needed?
 
-🥳 _Ladies and Gentlemen!!_ \
-🥳 _Hope you have a good day!!_\
-🥳 _We are all done with the project here!!_
+The BLE Smart Switch provides convenient control over electrical sockets through Bluetooth technology. It enables users to manage home appliances remotely, ensuring energy efficiency and enhanced home automation.
 
-# Designer Details
+# Features of our Smart Switch
 
-- Designed for:
-  - Company Name
-  - Project Name
-- Designed by:
-  - [Parth Patel](mailto:parth.pmech@gmail.com)
+- Control up to 2 sockets remotely.
+- Schedule socket activation/deactivation.
+- Real-time monitoring and control through a BLE app.
+- Easy-to-use interface for hassle-free operation.
+- Compact and modern design, suitable for various environments.
 
-# License
 
-This project is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) (see [LICENSE.md](LICENSE.md)).
+# How to use the device
 
-Copyright 2022 Parth Patel
+1. Connect the device to the sockets you wish to control.
+2. Pair the device with the BLE app.
+3. Use the app to set schedules or control sockets manually.
 
-Licensed under the GNU General Public License, Version 3.0 (the "License"); you may not use this file except in compliance with the License.
+# Schematic Design
 
-You may obtain a copy of the License at
+![schematic-1](./Hardware/Circuit%20Design/Rendered%20Images/Schematic.png)
 
-_https://www.gnu.org/licenses/gpl-3.0.en.html_
+# PCB Design
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+**Top View**
+
+![pcb-top](./Hardware/Circuit%20Design/Rendered%20Images/Board%20Top.png)
+
+**Bottom View**
+
+![pcb-bottom](./Hardware/Circuit%20Design/Rendered%20Images/Board%20Bottom.png)
+
+# Rendered Images
+
+![render-1](./Hardware/Circuit%20Design/Rendered%20Images/1.PNG)
+
+![render-2](./Hardware/Circuit%20Design/Rendered%20Images/2.PNG)
+
+![render-3](./Hardware/Circuit%20Design/Rendered%20Images/3.PNG)
+
+![render-4](./Hardware/Circuit%20Design/Rendered%20Images/4.PNG)
+
+# Design Details
+
+- Designed for: Ecologic Private Ltd.
+- Designed by: [Parth Patel](mailto:parth.pmech@gmail.com)
